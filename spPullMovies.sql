@@ -15,3 +15,9 @@ SELECT Name
   --How to Run Stored Procedure
 
   EXEC spPullMoviesInfo
+
+  /**
+  Trying to understand the process of moving 
+  stored Procedure code to GitHub
+
+  **/
